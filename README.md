@@ -4,3 +4,8 @@ Our proposed model determines the remaining useful life of lithium-ion batteries
 
 # Dataset used:
 B. Saha and K. Goebel (2007). “Battery Data Set”, NASA Prognostics Data Repository, NASA Ames Research Center, Moffett Field, CA. https://phm-datasets.s3.amazonaws.com/NASA/5.+Battery+Data+Set.zip
+
+# Contributors:
+- Mohammad Hosseini: mmhoss@my.yorku.ca
+- Aryan Iranpour: aryani@my.yorku.ca
+- Fiorella Russi: frussi@my.yorku.ca
